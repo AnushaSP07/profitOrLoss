@@ -1,8 +1,9 @@
-body{
-    text-align: center;
+body {
+  text-align: center;
+  background-color: bisque;
 }
 
-label{
-    display: block;
-    padding-bottom: 1rem;
+label {
+  display: block;
+  padding-bottom: 1rem;
 }
